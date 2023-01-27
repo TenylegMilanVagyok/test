@@ -7,3 +7,19 @@ h1
     color: cadetblue;
     font-size: 22pt;
 }
+h2
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: lightgreen;
+}
+.forma
+{
+    text-align: justify;
+    font-size: 13pt;
+}
+.formazas
+{
+    text-align: center;
+    font-size: 11pt;
+    color: magenta;
+}
